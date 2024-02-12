@@ -1,0 +1,3 @@
+environs
+aiogram
+pyyaml==5.4.1
